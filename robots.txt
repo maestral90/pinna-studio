@@ -25,4 +25,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://pinna-studio-hvar.netlify.app/sitemap.xml
+Sitemap: https://pinna-studio.netlify.app/sitemap.xml
